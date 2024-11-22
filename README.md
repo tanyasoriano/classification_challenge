@@ -5,11 +5,17 @@
 
 # Key Components of this assignment:
 > Split the data utilizing train_test_split
+
 > Scale the data utilizing Standard Scaler
+
 > Create a Logistic Regression model
+
 > Create a Random Forest model
-> Score your models
+
+> Score your models - which model performed better? Was your prediction accurate? 
 
 # Note:
 > This assignment was completed with the assistance of Xpert Learning Assistant & Ask BCS. 
->
+
+__testing__
+
