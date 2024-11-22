@@ -17,5 +17,4 @@
 # Note:
 > This assignment was completed with the assistance of Xpert Learning Assistant & Ask BCS. 
 
-__testing__
 
